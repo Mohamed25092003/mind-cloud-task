@@ -10,5 +10,4 @@ Electronics and Communication
 # My favourite team 
 software teaam
 # clonning my repo
-git clone 
-
+git clone https://github.com/Mohamed25092003/mind-cloud-task.git
